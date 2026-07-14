@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+dataset/
+
+*.keras
+*.h5
+
+.vscode/
+
+detections/
+
+*.csv
